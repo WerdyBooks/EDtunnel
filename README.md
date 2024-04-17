@@ -34,11 +34,11 @@ ask question and cloudflare ips: [https://t.me/edtunnel](https://t.me/edtunnel)
 
 ## Deploy in worker.dev
 
-1. Copy `_worker.js` code from [here](https://github.com/WerdyBooks/EDtunnel/blob/main/_worker.js).
+1. Copy `_worker.js` code from [here](https://github.com/3Kmfi6HP/EDtunnel/blob/main/_worker.js).
 
 2. Alternatively, you can click the button below to deploy directly.
 
-   [![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/WerdyBooks/EDtunnel)
+   [![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/3Kmfi6HP/EDtunnel)
 
 ## Lazy to deploy
 
@@ -125,10 +125,10 @@ The path `/uuid your seetting` to get the clash config and vless:// link.
 
 ## Star History
 
-<a href="https://star-history.com/#WerdyBooks/EDtunnel&Date">
+<a href="https://star-history.com/#3Kmfi6HP/EDtunnel&Date">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=WerdyBooks/EDtunnel&type=Date&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=WerdyBooks/EDtunnel&type=Date" />
-    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=WerdyBooks/EDtunnel&type=Date" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=3Kmfi6HP/EDtunnel&type=Date&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=3Kmfi6HP/EDtunnel&type=Date" />
+    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=3Kmfi6HP/EDtunnel&type=Date" />
   </picture>
 </a>
